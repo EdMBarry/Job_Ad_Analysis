@@ -1,0 +1,57 @@
+statistics,machine_learning,deep_learning,rstats,python,data_engineering,data_analysis
+anova,ai,ai,c++,anaconda,alteryx,analysis
+bayesian,algorithm,algorithm,cran,beautifulsoup,amazon,analytics
+differential equations,analytics,analytics,dashboards,bokeh,architecture,automation
+distribution,artificial intelligence,artificial intelligence,data.table,c++,automation,business
+error,automation,calculus,dplyr,dash,aws,cleaning
+forecasting,calculus,chatbot,ggplot,dashboarding,azure,dash
+gaussian,clustering,cloud,ggplot2,dashboards,bash,dashboard
+generalised linear regression,decision tree,cnn,ggvis,django,big data,dashboarding
+generalized linear regression,forecasting,convolutional,knitr,flask,cloud,data
+hypothesis testing,image processing,convolutional neural network,leaflet,gensim,cloud computing,dataops
+markov,kaggle,image processing,lubridate,jupyter,cluster,excel
+matlab,k means,kaggle,package,keras,containers,git
+matrices,kmeans,keras,purrr,kivy,database,github
+mcmc,k nearest neighbor,linear algebra,quantmod,matplotlib,databricks,insight
+monte carlo,k nearest neighbour,natural language processing,r,nltk,data collection,json
+optimisation,knn,neural network,rcpp,numpy,data factory,marketing
+optimization,linear algebra,nlp,rlang,object oriented,data integration,matlab
+poisson,linear regression,prediction,rmarkdown,oop,data management,munging
+probability,logistic regression,predictive,rmysql,opencv,data mining,power bi
+propagation,machine learning,pytorch,rpostgressql,pandas,dataops,powerbi
+regression,pca,recurrent neural network,rstats,plotly,data pipelines,processing
+statistical,prediction,rnn,rstudio,pymc3,data processing,python
+statistics,predictive,smart,shiny,pyqt,deployment,qlik
+time series,random forest,tensorflow,stringr,pyspark,docker,quicksight
+uncertainty,regression,theano,threejs,python,ec2,r
+mathematics,scikit-learn,computer science,tidy,pytorch,elasticsearch,reporting
+maths,sklearn,deep learning,tidyr,scikit-learn,glue,reports
+problem-solving skills,smart,,tidyverse,scipy,hadoop,rstats
+,statistical learning,,,scrapy,high performance computing,shell
+,support vector machine,,,seaborn,hpc,solutions
+,svm,,,sklearn,java,tableau
+,,,,spacy,kubernetes,version control
+,,,,statsmodels,linux,visualisation
+,,,,tensorflow,mongodb,visualization
+,,,,theano,mysql,xml
+,,,,xgboost,opencv,computer science
+,,,,yellowbrick,pipelines,information
+,,,,,postgresql,problem-solving skills
+,,,,,postgressql,
+,,,,,quality,
+,,,,,query,
+,,,,,relational,
+,,,,,scala,
+,,,,,server,
+,,,,,shell,
+,,,,,shifter,
+,,,,,singularity,
+,,,,,snowflake,
+,,,,,solutions,
+,,,,,spark,
+,,,,,sql,
+,,,,,sql server,
+,,,,,tsql,
+,,,,,unix,
+,,,,,warehouse,
+,,,,,xgboost,
